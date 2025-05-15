@@ -1,6 +1,7 @@
 # HTTP Server
 
 一个支持 Gzip 压缩的简单 HTTP 服务器，特别优化了 JavaScript 文件的传输。
+用于前端项目的本地开发，可以方便的进行静态文件服务，并且自动对 JavaScript 文件进行 Gzip 压缩，测试发布环境。
 
 ## 功能特点
 
